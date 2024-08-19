@@ -41,18 +41,3 @@ class transpose
 }
 
 
-PS C:\Users\devik\java practise> javac transpose.java
-PS C:\Users\devik\java practise> java transpose
-enter the size of matrix
-2
-2
-enter the matrix
-a[0][0]: 1
-a[0][1]: 2
-a[1][0]: 3
-a[1][1]: 4
-the transpose matrix is
- 1 3
- 2 4
-PS C:\Users\devik\java practise>
-
